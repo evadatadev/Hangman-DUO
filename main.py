@@ -1,5 +1,5 @@
 # --- IMPORTS ---
-import random as rd
+import random as r
 import utils.hangman_art as a
 import utils.hangman_words as w
 
