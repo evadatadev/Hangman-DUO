@@ -1,7 +1,5 @@
 # 🎮 Hangman – Deutsch & Portugiesisch Edition
 
----
-
 Ein klassisches Hangman-Spiel in Python: Mit ASCII-Art, zwei Sprachoptionen (Deutsch & Portugiesisch) und modularer Struktur.
 
 Ideal zum Lernen, Üben oder einfach zum Spielen.
